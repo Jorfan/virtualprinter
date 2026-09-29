@@ -1,0 +1,8 @@
+# Normalize line endings; keep Windows scripts and the solution as CRLF-safe text.
+* text=auto
+*.cs text diff=csharp
+*.csproj text
+*.props text
+*.slnx text
+*.md text
+*.png binary

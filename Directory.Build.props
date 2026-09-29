@@ -1,0 +1,14 @@
+<Project>
+
+  <!-- Shared metadata for every project in the solution. -->
+  <PropertyGroup>
+    <Authors>John Orfanidis</Authors>
+    <Company>OpenRMA Technologies</Company>
+    <Product>VirtualPOSPrinter</Product>
+    <Copyright>Copyright (c) 2026 OpenRMA Technologies</Copyright>
+    <Description>Virtual ESC/POS network printers for testing POS and order-management systems.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>

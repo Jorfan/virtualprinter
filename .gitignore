@@ -1,0 +1,21 @@
+## .NET build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+*.rsuser
+TestResults/
+*.nupkg
+
+## Local runtime data (created next to the executable, never commit)
+printers.json
+settings.json
+jobs/
+logs/
+*.pdf
+
+## OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VirtualPOSPrinter.EscPos/VirtualPOSPrinter.EscPos.csproj" />
+    <Project Path="src/VirtualPOSPrinter/VirtualPOSPrinter.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/VirtualPOSPrinter.Tests/VirtualPOSPrinter.Tests.csproj" />
+  </Folder>
+</Solution>
